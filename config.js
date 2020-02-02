@@ -32,6 +32,18 @@ module.exports = {
       email: 'bartlee@kakao.com',
       twitter: 'elfinxx',
       github: 'bart-lee-x',
+      facebook: '#',
+      telegram: '#',
+      rss: '',
+      vkontakte: '',
+      linkedin: '#',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
