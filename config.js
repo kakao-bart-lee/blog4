@@ -30,20 +30,8 @@ module.exports = {
     bio: 'just developer',
     contacts: {
       email: 'bartlee@kakao.com',
-      facebook: '#',
-      telegram: '#',
-      twitter: '@elfinxx',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      twitter: 'elfinxx',
+      github: 'bart-lee-x',
     }
   }
 };
