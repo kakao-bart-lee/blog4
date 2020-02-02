@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://tess.dev',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by bart',
+  subtitle: '기록',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Bart',
+    photo: 'https://avatars0.githubusercontent.com/u/4384908',
+    bio: 'Developer',
     contacts: {
-      email: '',
+      email: 'bartlee@kakao.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
