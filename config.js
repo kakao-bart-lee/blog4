@@ -26,13 +26,13 @@ module.exports = {
   ],
   author: {
     name: 'Bart',
-    photo: 'https://avatars0.githubusercontent.com/u/4384908',
-    bio: 'Developer',
+    photo: '/photo.jpg',
+    bio: 'just developer',
     contacts: {
       email: 'bartlee@kakao.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: '@elfinxx',
       github: '#',
       rss: '',
       vkontakte: '',
