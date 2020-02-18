@@ -6,9 +6,9 @@ module.exports = {
   title: 'Blog by bart',
   subtitle: '기록',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  disqusShortname: 'tess-dev',
+  postsPerPage: 6,
+  googleAnalyticsId: 'UA-135466470-1',
   useKatex: false,
   menu: [
     {
