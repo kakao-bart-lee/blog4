@@ -79,6 +79,10 @@ val maybeStatus = response.items.filter {
 
 결과적으론 이 기능이 제일 많이 쓰이고 있습니다.
 
+![진료소 찾기 결과](/media/recent_status.jpg)
+
+파란색이 `현황` 블럭이 호출될 때 작동하는 스킬 API 호출량입니다.
+
 ### 폴백 (+ `지식+`)
 
 봇이 처리할 수 없는 질문일 때 나가는 응답을 설정하는 것을 오픈 빌더에서는 폴백 블럭에 설정한다고 표현합니다. 그리고 [지식+](https://i.kakao.com/docs/key-concepts-knowledge)는 들어온 발화가 미리 입력해둔 QnA 중 유사하다고 판단되는 것이 있으면 그에 해당하는 응답을 내보내 주는 기능인데요. 
