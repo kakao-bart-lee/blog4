@@ -14,7 +14,7 @@ socialImage: "/media/image-4.jpg"
 
 - 세상에서 내가 제일 잘한다: `아이디어 내어 일만들기`, `귀찮은일 자동화`
 - 밥값은 한다: `Java + Spring`, `Scala + Play`, `Kotlin + Spring`
-- 적당히 쓰고 있다: `MongoDB`, `기타 RDB들`, `Python + Flask@`
+- 적당히 쓰고 있다: `MongoDB`, `기타 RDB들`, `Python + Flask@`, `ES`
 - 해보긴 해봤는데..: `Angular`, `Swift(iOS)`, `Java(Android)`, `Ruby`, `k8s`
 - 해보려고 하는건: `React`, `Data science`, `Go`
 
@@ -35,7 +35,7 @@ socialImage: "/media/image-4.jpg"
 - Jun 2017 ~ 
 
 1. 카카오톡 플러스친구의 챗봇, 카카오 미니의 대화 엔진 백엔드 개발에 "거의" 처음부터 참여
-    1. 시니어 3명 + 사실상 주니어(본인)이서 잡히는대로 다 개발 함
-    1. 프런트엔드는 하다가 개발속도 느리다고 짤림, 헤헤
+    1. 챗봇 혹은 대화형 인터페이스에 대한 구조 이해 및 개발
+    1. 대량의 데이터, 로그 처리 경험
 2. [이런](https://tess.dev/posts/kcdc-chat-bot) [저런](https://tess.dev/posts/cafe-bot) 봇 만들기
 3. 오픈 채팅의 매니저봇 백엔드 개발
