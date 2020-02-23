@@ -35,5 +35,7 @@ socialImage: "/media/image-4.jpg"
 - Jun 2017 ~ 
 
 1. 카카오톡 플러스친구의 챗봇, 카카오 미니의 대화 엔진 백엔드 개발에 "거의" 처음부터 참여
+    1. 시니어 3명 + 사실상 주니어(본인)이서 잡히는대로 다 개발 함
+    1. 프런트엔드는 하다가 개발속도 느리다고 짤림, 헤헤
 2. [이런](https://tess.dev/posts/kcdc-chat-bot) [저런](https://tess.dev/posts/cafe-bot) 봇 만들기
 3. 오픈 채팅의 매니저봇 백엔드 개발
